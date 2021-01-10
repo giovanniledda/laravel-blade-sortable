@@ -282,3 +282,7 @@ If you discover any security related issues, please email santibanez.andres@gmai
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+## Modified version by
+
+- [Giovanni Ledda](https://github.com/giovanniledda)
